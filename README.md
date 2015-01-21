@@ -1,2 +1,2 @@
 # skill-builder
-Skill Builder
+A guided journey to acquring new skills.
